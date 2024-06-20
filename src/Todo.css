@@ -1,0 +1,12 @@
+.Todo {
+  text-align: center;
+}
+input {
+  height: 40px;
+  width: 400px;
+  border-radius: 100px;
+  border: 2px solid black;
+}
+span {
+  font-weight: bold;
+}
