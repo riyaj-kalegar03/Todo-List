@@ -1,6 +1,6 @@
 # This is Todo Project.
 
-This is simple to do Project using React.js.
+This is simple to do Project using React.js
 
 # React + vite
 
